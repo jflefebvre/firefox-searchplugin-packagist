@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Packagist</ShortName>
+<Description>Packagist Search</Description>
+<Url type="text/html" method="GET" template="http://www.packagist.org/search/?search_query[query]={searchTerms}&amp;sourceid=opensearch"/>
+<Image width="16" height="16" type="image/x-icon">https://www.packagist.org/favicon.ico</Image>
+<InputEncoding>UTF-8</InputEncoding>
+<moz:SearchForm>https://www.packagist.org</moz:SearchForm>
+<moz:UpdateUrl>http://iamjeff.be/packagist.xml</moz:UpdateUrl>
+<moz:IconUpdateUrl>https://www.packagist.org/favicon.ico</moz:IconUpdateUrl>
+<moz:UpdateInterval>7</moz:UpdateInterval>
+</OpenSearchDescription>
